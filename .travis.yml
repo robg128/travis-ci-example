@@ -11,4 +11,4 @@ jobs:
       script: ./mvnw clean test
 
 notifications:
-  email: info@techprimers.com
+  email: robglasener@me.com
